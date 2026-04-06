@@ -18,9 +18,4 @@ Simple Angular Todo App for learning basics.
 ## Install
 
 ```bash
-npm install
-
-## Run
-
-```bash
-ng serve
+npm install && ng serve
